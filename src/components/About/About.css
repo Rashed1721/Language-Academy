@@ -1,0 +1,25 @@
+.about{
+    margin-top: 100px;
+}
+.text{
+    width: 40%;
+    height: 400px;
+    box-shadow: 10px 10px 8px 5px #6b7ce7;
+}
+
+.img{
+    width: 40%;
+    height: 400px;
+    
+}
+.text{
+    padding: 10px;
+}
+.para{
+    margin-top: 10px;
+}
+
+.bg{
+    background-color: hsl(238deg 80% 53%);
+    color: white;
+}

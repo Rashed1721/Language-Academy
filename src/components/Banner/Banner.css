@@ -1,0 +1,10 @@
+.banner{
+    background-image: url('../../image/pic4.jpg');
+    width: 100%;
+    height: 780px;
+    margin-top: 0;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
